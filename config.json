@@ -1,0 +1,29 @@
+{
+	"token": "[USER TOKEN / NOT BOT TOKEN]",
+	"animation": [
+		{
+			"text": "T",
+			"emojiID": "000000000000000000",
+			"emojiName": "emojiName",
+			"timeout": 100
+		},
+		{
+			"text": "TE",
+			"emojiID": "000000000000000000",
+			"emojiName": "emojiName",
+			"timeout": 100
+		},
+		{
+			"text": "TES",
+			"emojiID": "000000000000000000",
+			"emojiName": "emojiName",
+			"timeout": 100
+		},
+		{
+			"text": "TEST",
+			"emojiID": "000000000000000000",
+			"emojiName": "emojiName",
+			"timeout": 100
+		},
+	]
+}
